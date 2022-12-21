@@ -3,7 +3,7 @@
 
 Hi!
 
-I’m Emmi, a math teacher but shifting my focus towards data analytics. There are a few small projects that I have done as part of DataCamp Career Tracks. I have completed two Career Tracks: Data Analyst with Python and Data Analyst in SQL.
+I’m Emmi, a math teacher but I'm shifting my focus towards data analytics. Here are a few small projects that I have done as part of DataCamp Career Tracks. I have completed two Career Tracks: Data Analyst with Python and Data Analyst in SQL.
 
 <b>Data Analyst with Python</b>
 <ul>
@@ -24,4 +24,4 @@ I’m Emmi, a math teacher but shifting my focus towards data analytics. There a
 </ul>
 
 
-I also started learning PowerBI at DataCamp, but I don't have any projects created yet, just some tasks part of the track. *Coming soon..*
+I also started learning PowerBI at DataCamp, but I don't have any projects created yet, just some tasks that are part of the track. *Coming soon..*
