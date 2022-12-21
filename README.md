@@ -24,4 +24,4 @@ I’m Emmi, a math teacher but shifting my focus towards data analytics. There a
 </ul>
 
 
-I also started learning PowerBI at DataCamp, but I don't have any projects done, just some tasks part of the track. *Coming soon..*
+I also started learning PowerBI at DataCamp, but I don't have any projects created yet, just some tasks part of the track. *Coming soon..*
