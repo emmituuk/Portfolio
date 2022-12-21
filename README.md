@@ -22,5 +22,3 @@ I’m Emmi, a math teacher but shifting my focus towards data analytics. There a
 
 
 I also started learning PowerBI at the same place, but I don't have any projects done, just some tasks part of the track. *Coming soon..*
-
-<a href="www.linkedin.com/in/emmikivivuori">Here</a> you can find my LinkedIn and contact info.
