@@ -3,8 +3,6 @@
 
 Hi!
 
-I’m Emmi and I'm looking for my first job in data analytics or mathematics e.g. Junior, Trainee.
-
 Here are a few small projects that I have done as part of DataCamp Career Tracks. I have completed two Career Tracks: Data Analyst with Python and Data Analyst in SQL.
 
 <b>Data Analyst with Python</b>
