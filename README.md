@@ -3,7 +3,9 @@
 
 Hi!
 
-Here are a few small projects that I have done as part of DataCamp Career Tracks. I have completed two Career Tracks: Data Analyst with Python and Data Analyst in SQL.
+Here are a few small projects that I have done as part of DataCamp Career Tracks. Please note that the topics and instructions of the projects come directly from DataCamp, but I have produced the code myself.
+
+I have completed two Career Tracks: Data Analyst with Python and Data Analyst in SQL.
 
 <b>Data Analyst with Python</b>
 <ul>
